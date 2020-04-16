@@ -1,0 +1,6 @@
+{
+"name": "@caravane/renderer",
+"version": "1.0.1",
+"author": "Eric Grivilers",
+"publishConfig": { "registry": "https://npm.pkg.github.com/" }
+}
